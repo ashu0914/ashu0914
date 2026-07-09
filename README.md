@@ -235,11 +235,13 @@ Building self-driven projects across **software engineering, AI experimentation,
 
 # GitHub Analytics
 
+# GitHub Analytics
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashu0914&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu0914&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+<img src="https://komarev.com/ghpvc/?username=ashu0914&style=for-the-badge&color=7c3aed" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/ashu0914?style=for-the-badge&color=6d28d9&labelColor=111827" alt="Followers" />
+<img src="https://img.shields.io/github/stars/ashu0914?style=for-the-badge&color=4f46e5&labelColor=111827" alt="Stars" />
 
 </div>
 
