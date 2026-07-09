@@ -1,9 +1,9 @@
-````markdown
+````markdown id="v9x7af"
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Ashirwad%20Jha&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%2F%20ML%20%7C%20Product%20Engineering&descAlignY=58&animation=fadeIn" alt="header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Software+Engineer+in+the+Making;AI%2FML+Builder+%7C+Python+Developer+%7C+Product+Engineer;Building+intelligent+systems%2C+automation+workflows%2C+and+developer-first+products;Focused+on+engineering+clean%2C+scalable%2C+and+practical+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=980&lines=Software+Engineer+in+the+Making;AI%2FML+Builder+%7C+Python+Developer+%7C+Product+Engineer;Building+intelligent+systems%2C+portfolio-grade+web+products%2C+and+automation+workflows;Focused+on+clean%2C+scalable%2C+and+real-world+engineering" alt="Typing SVG" />
 
 <br/>
 
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Email-ashujha0914%40gmail.com-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/ashu0914?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-Projects%20on%20GitHub-3730a3?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-GitHub%20Projects-3730a3?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -43,11 +43,11 @@
 
 # About
 
-I’m **Ashirwad Jha**, an engineering student and software builder focused on **software engineering, AI/ML systems, developer tooling, automation, and product-oriented problem solving**. I enjoy building projects that sit at the intersection of **practical software**, **intelligent workflows**, and **clean user experience**.
+I’m **Ashirwad Jha**, a Computer Science engineering student and software builder focused on **software engineering, AI/ML systems, developer tooling, automation, and product-oriented problem solving**. I enjoy building projects that combine **practical software**, **intelligent workflows**, and **clean user experience**.
 
-My current work is centered on strengthening the fundamentals that matter in modern engineering teams: **Python development, full-stack thinking, AI-assisted product workflows, system design habits, and scalable project structure**. I’m especially interested in building products that feel useful in the real world, from **AI assistants and automation systems** to **portfolio-grade web experiences** and **developer-focused tools**.
+My current work is centered on strengthening the engineering fundamentals that matter in modern teams: **Python development, full-stack thinking, AI-assisted product workflows, structured project architecture, and scalable software habits**. I’m especially interested in building products that sit at the intersection of **AI, automation, and user-centric engineering**, from **AI assistants** to **portfolio-grade web experiences** and **developer-focused tools**.
 
-I approach projects with a **product engineering mindset**: not just “make it work,” but think through **architecture, usability, maintainability, extensibility, and long-term iteration**. Whether I’m building an AI assistant, a portfolio platform, or experimenting with automation pipelines, I aim for software that is structured, polished, and meaningful.
+I approach projects with a **product engineering mindset**: not just making something work, but thinking about **maintainability, extensibility, usability, polish, and long-term iteration**. Whether I’m building an AI system, a web product, or an automation workflow, I aim to create software that is structured, purposeful, and production-minded.
 
 ### Open To
 - **Software Engineering Internships**
@@ -76,7 +76,7 @@ I approach projects with a **product engineering mindset**: not just “make it 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
 ## Design & Visualization Tools
-<img src="https://skillicons.dev/icons?i=ps,figma,autocad" />
+<img src="https://skillicons.dev/icons?i=figma,ps,autocad" />
 
 </div>
 
@@ -86,128 +86,95 @@ I approach projects with a **product engineering mindset**: not just “make it 
 
 | Domain | Proficiency | Details |
 |---|---:|---|
-| **Python for AI Workflows** | **Intermediate** | Building foundational AI workflows, scripting, automation logic, modular project structure, and command-driven assistant pipelines. |
-| **AI Assistant Engineering** | **Intermediate** | Working on voice-assistant architecture with command routing, speech handling, extensible modules, and future LLM integration. |
-| **Prompt Engineering & GenAI Tooling** | **Intermediate** | Using AI tools for ideation, workflow acceleration, content generation, prototyping, and structured product development. |
-| **Machine Learning Foundations** | **Beginner → Growing** | Building a strong base in ML concepts, data handling, model thinking, and applied learning through coursework and projects. |
-| **Automation Systems** | **Intermediate** | Interested in task automation, assistant flows, desktop productivity actions, and lightweight intelligent orchestration. |
-| **Product Thinking for AI** | **Intermediate** | Focus on turning AI concepts into usable products with practical UX, maintainable architecture, and clear user value. |
-| **Data Structures & Problem Solving** | **Growing** | Strengthening core CS fundamentals to support scalable engineering, algorithmic reasoning, and backend thinking. |
+| **Python for AI Workflows** | **Intermediate** | Building foundational AI workflows, modular project structures, automation logic, and assistant pipelines using Python. |
+| **AI Assistant Engineering** | **Intermediate** | Working on assistant architecture involving command routing, voice interaction, future LLM integration, and structured project scaling. |
+| **Prompt Engineering & GenAI Tooling** | **Intermediate** | Using generative AI tools for product ideation, workflow acceleration, prototyping, and practical problem solving. |
+| **Machine Learning Foundations** | **Beginner → Growing** | Strengthening core ML concepts, learning applied workflows, and building toward more serious AI/ML projects. |
+| **Automation Systems** | **Intermediate** | Interested in task automation, assistant workflows, productivity actions, and intelligent desktop experiences. |
+| **Product Thinking for AI** | **Intermediate** | Focused on turning AI ideas into usable products with clean UX, maintainable architecture, and real user value. |
+| **Data Structures & Problem Solving** | **Growing** | Continuously improving CS fundamentals to support stronger engineering, backend thinking, and scalable software design. |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><h3>Nova AI / DEO Voice Assistant</h3></summary>
+<summary><h3>Jaya AI</h3></summary>
 
-**A modular Windows-based AI voice assistant project designed to evolve into a configurable, extensible, privacy-aware desktop assistant.**  
-Built as a product-style engineering project with a focus on **voice interaction, command execution, modular architecture, and future LLM integration**.
+**A product-style AI project focused on building an intelligent assistant experience with practical utility, modular thinking, and future extensibility.**  
+Jaya AI represents my interest in combining **AI workflows, software engineering structure, and user-facing product behavior** rather than building isolated scripts.
 
 | Category | Details |
 |---|---|
-| **Stack** | Python, SpeechRecognition, modular command routing, environment configuration, GitHub version control |
-| **Scale** | Multi-module desktop assistant architecture with core, UI, memory, voice, and command layers |
-| **Performance** | Lightweight command execution loop, fast utility launches, iterative local development workflow |
-| **Security** | Environment-variable based configuration, roadmap for permission-aware access and safer command boundaries |
-| **Impact** | Forms the foundation for a personalized AI assistant capable of evolving into a smarter local productivity system |
-| **Repository** | [View Repository](https://github.com/ashu0914/DEO) |
+| **Stack** | Python, AI workflow concepts, modular project structure, GitHub version control |
+| **Scale** | Multi-module AI-oriented project intended to evolve into a more capable assistant / utility system |
+| **Performance** | Structured for iterative local development, modular expansion, and practical command-driven behavior |
+| **Security** | Repository-based development with controlled project structure and safer configuration practices |
+| **Impact** | Represents my transition from experimentation to building more serious AI-first software systems |
+| **Repository** | [View Repository](https://github.com/ashu0914/jaya-ai) |
 
 ### Project Overview
-This project began as a local desktop assistant and is steadily being shaped into a more complete **AI product system** rather than a simple command bot. The architecture is intended to support a flow such as:
-
-**Voice → Intent → Brain / LLM Layer → Memory → Response / Action**
-
-The current implementation supports core command handling and desktop actions, while the long-term direction includes:
-- configurable wake word behavior
-- richer conversation flow
-- better voice output
-- permission-aware actions
-- memory/context modules
-- optional AI backends for reasoning and task handling
+Jaya AI reflects my growing focus on **AI product engineering**. Instead of treating AI as a novelty feature, I’m interested in how it can be embedded into useful, maintainable systems with clear structure and a strong user-facing purpose.
 
 ### Scope of Work
-- Designed the assistant around a **modular folder structure** for future extensibility
-- Implemented **speech-based command listening** and action dispatching
-- Added desktop actions such as opening browser, calculator, notepad, and web shortcuts
-- Structured the codebase to support future **LLM, memory, emotion, and voice mode layers**
-- Set up repository hygiene, Git workflow, and environment-based configuration for safer development
+- Structured the project as a reusable and scalable AI-oriented codebase
+- Focused on practical product direction rather than isolated experimentation
+- Used the project to strengthen software engineering discipline around AI workflows
+- Continued iterating on architecture, usability direction, and future extensibility
 
 </details>
 
 <details>
-<summary><h3>Jaya Portfolio Website</h3></summary>
+<summary><h3>Nutriplex</h3></summary>
 
-**A premium portfolio website built for a dietitian brand, focused on clean visual presentation, trust-building, professional service communication, and modern web presence.**
+**A professional portfolio-style web product built for a nutrition / dietitian brand, focused on trust, clean design, and service-led presentation.**  
+This project emphasizes **frontend structure, visual hierarchy, professional branding, and polished user presentation**.
 
 | Category | Details |
 |---|---|
-| **Stack** | HTML, CSS, JavaScript-ready frontend structure, responsive layout design, visual branding assets |
-| **Scale** | Multi-section service portfolio with hero, credentials, trust messaging, consultation-focused content blocks |
-| **Performance** | Lightweight static architecture suitable for fast load times and smooth deployment |
-| **Security** | Minimal attack surface through static-first approach; domain + client-owned workflow considered for ownership clarity |
-| **Impact** | Helps convert a personal professional profile into a polished digital brand presence |
-| **Repository** | [Explore GitHub Projects](https://github.com/ashu0914?tab=repositories) |
+| **Stack** | HTML, CSS, frontend architecture, branding-focused layout design |
+| **Scale** | Multi-section service portfolio with hero, credentials, trust messaging, and service-oriented content blocks |
+| **Performance** | Lightweight static architecture suitable for fast load times and clean deployment |
+| **Security** | Static-first structure with minimal operational complexity and low attack surface |
+| **Impact** | Helps transform a personal professional profile into a polished digital brand presence |
+| **Repository** | [View Repository](https://github.com/ashu0914/nutriplex) |
 
 ### Project Overview
-This portfolio project is designed as a **professional healthcare-adjacent personal brand site** with a premium visual identity and recruiter/client-friendly presentation. The emphasis is not only on front-end styling, but on **trust, structure, clarity of services, and professional storytelling**.
+Nutriplex is built with a **professional portfolio mindset**. The objective is not only to create a visually good website, but to design a digital experience that communicates credibility, expertise, clarity of services, and a premium client-facing presence.
 
 ### Scope of Work
-- Designed a modern **service-oriented portfolio experience**
-- Structured sections for profile, credentials, consultation messaging, and service trust signals
-- Worked on presentation quality, image placement, visual hierarchy, and polished page aesthetics
-- Planned domain, data ownership, and practical client-side deployment considerations
-- Used the project as a way to sharpen **frontend layout discipline and product presentation skills**
+- Designed a modern portfolio experience for a professional nutrition brand
+- Structured content around trust, profile visibility, credentials, and consultation messaging
+- Focused on layout quality, clean section flow, and presentation polish
+- Used the project to improve frontend execution and product presentation skills
 
 </details>
 
 <details>
-<summary><h3>Personal Developer Portfolio</h3></summary>
+<summary><h3>Nova / DEO Voice Assistant</h3></summary>
 
-**A dark, cinematic, engineering-focused personal portfolio concept aimed at presenting software, AI, and product work in a recruiter-friendly way.**
+**A modular Windows-based voice assistant system designed to evolve into a configurable, extensible, privacy-aware AI desktop assistant.**  
+The project is shaped as an **engineering-first assistant architecture** with focus on **voice interaction, command execution, modular organization, and future LLM integration**.
 
 | Category | Details |
 |---|---|
-| **Stack** | HTML, CSS, GitHub Pages, modern UI design concepts, motion-first presentation ideas |
-| **Scale** | Personal branding project with project showcases, engineering narrative, and modern portfolio architecture |
-| **Performance** | Static deployment strategy with clean content flow and low operational complexity |
-| **Security** | Static site deployment with minimal backend dependency for a lean public portfolio footprint |
-| **Impact** | Helps transform scattered project work into a cohesive engineering identity and discoverable online presence |
+| **Stack** | Python, speech recognition workflows, modular command routing, environment configuration, GitHub version control |
+| **Scale** | Multi-module desktop assistant architecture with core, voice, command, and extensibility layers |
+| **Performance** | Lightweight local command execution loop for utility actions and iterative experimentation |
+| **Security** | Environment-based configuration with roadmap for permission-aware actions and safer command boundaries |
+| **Impact** | Serves as the foundation for a more capable local AI productivity assistant with future memory and reasoning layers |
 | **Repository** | [View GitHub Profile](https://github.com/ashu0914) |
 
 ### Project Overview
-This project reflects my interest in **developer branding done like a product**. The goal is to create a portfolio that does more than display links, it should communicate **technical direction, engineering taste, product sense, and clarity of focus**.
+This assistant project began as a local desktop automation tool and is being shaped into a more complete **AI product system** rather than a simple command bot. The long-term architecture is intended to support flows such as:
+
+**Voice → Intent → Brain / LLM Layer → Memory → Response / Action**
 
 ### Scope of Work
-- Planned a dark luxury visual language with **red/black or violet-toned modern aesthetics**
-- Structured sections around **projects, engineering focus, AI direction, and career positioning**
-- Used the portfolio as a sandbox for improving **frontend polish, design thinking, and presentation**
-- Focused on recruiter-facing clarity rather than decorative clutter
-
-</details>
-
-<details>
-<summary><h3>3D Visualization & Spatial Design Projects</h3></summary>
-
-**A collection of 3D interior / exterior visualization projects built using professional design tools, combining visual storytelling, space planning, and presentation-quality rendering.**
-
-| Category | Details |
-|---|---|
-| **Stack** | 3ds Max, Corona Renderer, AutoCAD, visualization workflows |
-| **Scale** | Residential and commercial scene design including flats, restaurant, banquet hall, and bungalow concepts |
-| **Performance** | Render optimization work through lighting, material adjustments, passes, and visual refinement |
-| **Security** | N/A for traditional application security; focus is on asset management, file organization, and production workflow discipline |
-| **Impact** | Demonstrates strong visual problem solving, design execution, and the ability to deliver polished digital presentations |
-| **Repository** | [Explore GitHub Profile](https://github.com/ashu0914) |
-
-### Project Overview
-Alongside software, I’ve spent significant time working on **3D visualization and digital design**, especially with interiors and presentation-focused renders. This has helped me develop an eye for **detail, composition, aesthetics, iteration, and user-facing quality**, all of which translate surprisingly well into product engineering and frontend craftsmanship.
-
-### Scope of Work
-- Created and refined **interior / exterior design scenes**
-- Worked on lighting, material realism, camera composition, and rendering quality
-- Solved practical workflow issues involving scene setup, render optimization, and presentation refinement
-- Built a design-oriented foundation that complements software product thinking
+- Designed the assistant around a modular structure for future extensibility
+- Implemented voice-command driven utility actions and local assistant behavior
+- Planned future support for LLM integration, memory/context layers, and richer conversational interaction
+- Used the project to explore practical AI product architecture and developer tooling workflows
 
 </details>
 
@@ -215,21 +182,21 @@ Alongside software, I’ve spent significant time working on **3D visualization 
 
 # Experience
 
-## Freelance / Independent Project Builder  
-**Self-Directed Engineering & Design Projects**  
+## Independent Project Builder  
+**Software, AI & Portfolio Projects**  
 **2024 - Present**
 
-Working across personal and freelance-style projects spanning **software engineering, AI experimentation, portfolio websites, automation concepts, and 3D visualization workflows**. My work has focused on learning by building, improving technical depth through real execution, and developing a stronger product engineering mindset.
+Building self-driven projects across **software engineering, AI experimentation, automation concepts, and portfolio-focused web products**. My work is centered on learning by building, improving technical depth through execution, and developing a stronger product engineering mindset through real projects.
 
 ### Scope of Work
-- Built and iterated on **voice-assistant architecture** using Python and modular project organization
-- Designed and developed **portfolio-style web experiences** for personal branding and client-facing use cases
-- Explored **AI-assisted workflows**, prompt engineering, automation concepts, and product prototyping
-- Managed GitHub repositories, code structure, deployment-oriented thinking, and project presentation
-- Worked on **3D design and rendering projects** involving interior/exterior spaces and presentation assets
+- Built and iterated on **AI-focused project systems** and product-style software experiments
+- Developed **portfolio-style web experiences** for personal branding and professional use cases
+- Explored **AI-assisted workflows, prompt engineering, and automation-oriented project ideas**
+- Managed GitHub repositories, project structure, version control, and presentation of technical work
+- Used projects as a medium to improve engineering thinking, design discipline, and software clarity
 
 **Skills:**  
-`Python` `Git` `GitHub` `HTML` `CSS` `AI Tooling` `Automation` `Prompt Engineering` `Product Thinking` `3ds Max` `Corona Renderer` `AutoCAD` `Figma`
+`Python` `Git` `GitHub` `HTML` `CSS` `AI Tooling` `Automation` `Prompt Engineering` `Product Thinking` `Frontend Fundamentals` `Portfolio Systems`
 
 ---
 
@@ -239,17 +206,37 @@ Working across personal and freelance-style projects spanning **software enginee
 
 | Recognition | Details |
 |---|---|
-| **Computer Science Engineering Diploma** | Completed diploma-level engineering studies with growing focus on software, AI, and practical product building. |
-| **Hands-On AI Assistant Project** | Designed and built a modular voice assistant system as a long-term engineering project with future AI integration goals. |
-| **Portfolio & Client Web Projects** | Worked on portfolio websites and professional presentation-focused web experiences. |
-| **3D Visualization Work** | Built residential and commercial visualization projects using 3ds Max, Corona Renderer, and AutoCAD. |
-| **Self-Driven Engineering Transition** | Actively transitioning toward software engineering, AI/ML, and product development through project-based learning. |
+| **Computer Science Engineering Diploma** | Completed diploma-level engineering studies with growing focus on software engineering, AI, and practical product building. |
+| **AI Project Development** | Built and maintained AI-oriented software projects with a focus on modularity, structure, and long-term extensibility. |
+| **Portfolio & Client Web Projects** | Worked on professional portfolio-style web products focused on trust, clarity, and polished digital presentation. |
+| **Hands-On Product Building** | Strengthened engineering understanding by building real projects across AI, web, and developer-facing workflows. |
+| **Self-Driven Engineering Transition** | Actively transitioning toward software engineering and AI/ML through project-based learning and public GitHub work. |
 
 </div>
 
 ---
 
 # Certifications
+
+## Coursera
+
+<a href="https://www.coursera.org/account/accomplishments/verify/VVD7POTHRO6B">
+  <img src="https://img.shields.io/badge/Coursera-Certificate%2001-111827?style=for-the-badge&logo=coursera&logoColor=0056D2" />
+</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/8JL80VRNPAZ5">
+  <img src="https://img.shields.io/badge/Coursera-Certificate%2002-111827?style=for-the-badge&logo=coursera&logoColor=0056D2" />
+</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/RATDE7T1OCZA">
+  <img src="https://img.shields.io/badge/Coursera-Certificate%2003-111827?style=for-the-badge&logo=coursera&logoColor=0056D2" />
+</a>
+
+<br/><br/>
+
+| Provider | Credential |
+|---|---|
+| **Coursera** | [Certificate 01](https://www.coursera.org/account/accomplishments/verify/VVD7POTHRO6B) |
+| **Coursera** | [Certificate 02](https://www.coursera.org/account/accomplishments/verify/8JL80VRNPAZ5) |
+| **Coursera** | [Certificate 03](https://www.coursera.org/account/accomplishments/verify/RATDE7T1OCZA) |
 
 ## AWS
 <img src="https://img.shields.io/badge/AWS-Learning%20Path-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
@@ -263,30 +250,23 @@ Working across personal and freelance-style projects spanning **software enginee
 ## Cisco
 <img src="https://img.shields.io/badge/Cisco-Skills%20%26%20Networking-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7" />
 
-> Add your earned certification links under each provider as you complete them.  
-> Example format:
-> - **AWS:** Cloud Foundations / Cloud Practitioner preparation
-> - **Oracle:** Java / Database / OCI learning tracks
-> - **NPTEL:** Python, AI, or CS fundamentals
-> - **Cisco:** Networking / Cybersecurity / foundational technical courses
-
 ---
 
 # Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<a href="https://leetcode.com/u/ashujha0914/">
+  <img src="https://img.shields.io/badge/LeetCode-ashujha0914-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 <a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20%26%20Practice-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=0F9D58" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=0F9D58" />
 </a>
 <a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+  <img src="https://img.shields.io/badge/HackerRank-Profile-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
 </a>
 <a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-111827?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-Profile-111827?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </div>
@@ -345,22 +325,22 @@ learning:
   - Python for scalable software engineering
   - AI / ML foundations and applied workflows
   - Data structures and problem solving
-  - Full-stack development fundamentals
-  - Product thinking and software architecture
+  - Frontend development and polished web experiences
+  - Product thinking and maintainable project architecture
 
 building:
-  - Nova AI / DEO voice assistant
-  - Recruiter-focused personal portfolio
-  - Real-world portfolio websites and client-facing digital experiences
-  - Automation-first developer workflows
-  - Stronger GitHub project presence through practical engineering builds
+  - Jaya AI and assistant-style AI product systems
+  - Portfolio-grade web experiences such as Nutriplex
+  - Recruiter-focused engineering presence on GitHub
+  - Better project structure, documentation, and technical branding
+  - Real-world software projects that combine usability with clean execution
 
 exploring:
   - LLM integration for assistant systems
-  - AI-powered desktop automation
-  - Modern frontend interactions and polished UX
-  - Scalable project structure and maintainable code organization
-  - Open-source friendly engineering workflows
+  - AI-powered automation workflows
+  - Modern frontend interactions and premium portfolio UX
+  - Scalable project architecture and engineering discipline
+  - Open-source friendly development workflows
 
 open_to:
   - Software Engineering Internship
