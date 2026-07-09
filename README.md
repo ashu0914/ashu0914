@@ -235,13 +235,21 @@ Building self-driven projects across **software engineering, AI experimentation,
 
 # GitHub Analytics
 
-# GitHub Analytics
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ashu0914&style=for-the-badge&color=7c3aed" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/ashu0914?style=for-the-badge&color=6d28d9&labelColor=111827" alt="Followers" />
 <img src="https://img.shields.io/github/stars/ashu0914?style=for-the-badge&color=4f46e5&labelColor=111827" alt="Stars" />
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ashu0914/ashu0914/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
