@@ -140,7 +140,7 @@ Nutriplex is built with a **professional portfolio mindset**. The goal is not on
 </details>
 
 <details>
-<summary><h3>Nova / DEO Voice Assistant</h3></summary>
+<summary><h3> DEO Chat Bot</h3></summary>
 
 **A modular Windows-based voice assistant system designed to evolve into a configurable, extensible, privacy-aware AI desktop assistant.**
 
