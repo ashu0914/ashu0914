@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,35:1a1a2e,65:16213e,100:0f3460&text=Ashirwad%20Jha&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Developer%20|%20AI%20/%20ML%20|%20Python%20Developer&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Ashirwad%20Jha&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Developer%20|%20AI%20%2F%20ML%20Enthusiast%20|%20Python%20Developer&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=950&lines=Software+Developer;AI+%2F+ML+Enthusiast;Python+Developer;Building+Jaya+AI;Creating+Portfolio+Grade+Products;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Developer;AI+%2F+ML+Enthusiast;Python+Developer;Building+Jaya+AI;Creating+Premium+Projects;Always+Learning+New+Things" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Diploma-Computer%20Science-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Diploma-Computer%20Science%20Engineering-4F46E5?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Learning-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Learning-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Delhi-NCR-red?style=for-the-badge&logo=googlemaps"/>
+<img src="https://img.shields.io/badge/Location-Delhi%20NCR-DC2626?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
 
@@ -52,36 +52,34 @@
 
 <td width="35%" align="center">
 
-## Pixel Avatar
+## 👾 Pixel Avatar
 
-<img src="assets/pixel-avatar.gif" width="220"/>
+<img src="./assets/pixel-avatar.gif" width="220" alt="Pixel Avatar"/>
 
 <br>
 
-> Custom pixel version of my real profile photo.
+⚠️ *Add **pixel-avatar.gif** inside the **assets** folder.*
 
 </td>
 
 <td width="65%">
 
-# Hello 👋
+# Hi, I'm Ashirwad Jha 👋
 
-I'm **Ashirwad Jha**
+Software Developer passionate about building AI-powered applications, automation systems and modern web products.
 
-A passionate **Software Developer** focused on building practical software, AI-powered applications, automation systems, and premium web experiences.
-
-I enjoy transforming ideas into products that are clean, scalable, and visually polished.
-
-Currently I'm investing my time in:
+### 🚀 Currently Focused On
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - 🐍 Python Development
 - 🌐 Frontend Engineering
 - ⚡ Automation
-- 🚀 Product Building
+- 🚀 Product Engineering
 
-My long-term goal is to become an engineer capable of building intelligent software that solves real-world problems.
+### 🎯 Goal
+
+Build intelligent software that solves real-world problems through clean architecture and practical engineering.
 
 </td>
 
@@ -106,54 +104,45 @@ Education:
 Location:
   Delhi NCR, India
 
-Current Focus:
+Learning:
+  Python
   AI
   Machine Learning
-  Python
+  Data Structures
   Software Engineering
-  Automation
-  Product Development
 
-Currently Building:
-  - Jaya AI
-  - Nutriplex
-  - Portfolio Projects
-
-Learning:
-  - Data Structures
-  - Algorithms
-  - Machine Learning
-  - Deep Learning
-  - Backend Development
+Building:
+  Jaya AI
+  Nutriplex
+  AI Automation
 
 Open To:
-  - Software Engineering Internship
-  - AI / ML Internship
-  - Python Developer Internship
-  - Open Source Collaboration
+  Software Engineering Internship
+  AI / ML Internship
+  Python Developer Internship
 ```
 
 ---
 
-# 🌌 Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-## Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css"/>
 
 <br><br>
 
-## Frameworks & Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel"/>
 
 <br><br>
 
-## Design
+### Design
 
-<img src="https://skillicons.dev/icons?i=ps,autocad"/>
+<img src="https://skillicons.dev/icons?i=photoshop,autocad"/>
 
 </div>
 
@@ -163,13 +152,13 @@ Open To:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashu0914&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashu0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu0914&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ashu0914&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu0914&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu0914&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -179,17 +168,7 @@ Open To:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashu0914&theme=tokyonight&margin-w=10&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashu0914&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashu0914&theme=tokyonight&margin-w=15&no-frame=true"/>
 
 </div>
 
@@ -199,13 +178,13 @@ Open To:
 <div align="center">
 
 | Domain | Level | Description |
-|---------|:----:|-------------|
-| 🐍 Python Development | ⭐⭐⭐⭐☆ | Building scalable software and automation workflows |
-| 🤖 AI Engineering | ⭐⭐⭐⭐☆ | Designing modular AI assistant architecture |
-| 🧠 Machine Learning | ⭐⭐⭐☆☆ | Learning ML concepts with practical implementation |
-| ⚡ Automation | ⭐⭐⭐⭐☆ | Developing productivity tools and automation systems |
-| 💬 Prompt Engineering | ⭐⭐⭐⭐☆ | Creating structured AI workflows |
-| 🌐 Frontend Development | ⭐⭐⭐⭐☆ | Clean, responsive and modern UI |
+|:---|:---:|:---|
+| 🐍 Python Development | ⭐⭐⭐⭐☆ | Building software, automation and AI workflows |
+| 🤖 AI Assistant Engineering | ⭐⭐⭐⭐☆ | Developing modular AI assistants with future LLM integration |
+| 🧠 Machine Learning | ⭐⭐⭐☆☆ | Learning ML fundamentals and applying them in projects |
+| ⚡ Automation | ⭐⭐⭐⭐☆ | Creating automation tools using Python |
+| 💬 Prompt Engineering | ⭐⭐⭐⭐☆ | Designing structured AI prompts and workflows |
+| 🌐 Frontend Development | ⭐⭐⭐⭐☆ | Responsive UI using HTML & CSS |
 
 </div>
 
@@ -217,7 +196,7 @@ Open To:
 
 <summary>
 
-# 🤖 Jaya AI
+## 🤖 Jaya AI
 
 </summary>
 
@@ -227,31 +206,34 @@ Open To:
 
 ### Overview
 
-Jaya AI is my flagship AI assistant project built with a modular architecture. The vision is to create a privacy-aware desktop AI capable of voice interaction, automation, memory and future LLM integration.
+Jaya AI is my flagship AI assistant project designed to become a complete desktop productivity assistant powered by Artificial Intelligence.
 
 ### Features
 
-- 🎤 Voice Assistant
+- 🎤 Voice Commands
 - 🧠 Modular Architecture
-- ⚡ Fast Command Execution
+- ⚡ Fast Execution
+- 🌐 Browser Automation
+- 💻 Windows Automation
 - 🔒 Privacy Focused
-- 🤖 AI Ready
-- 💾 Memory System
-- 🌍 Future LLM Integration
+- 🤖 Future LLM Integration
+- 💾 Memory System (Planned)
 
-### Tech Stack
+### Technologies
 
 ```text
 Python
 Speech Recognition
-Automation
 Git
 GitHub
+Automation
 ```
 
 Repository
 
+```text
 https://github.com/ashu0914/jaya-ai
+```
 
 </details>
 
@@ -261,7 +243,7 @@ https://github.com/ashu0914/jaya-ai
 
 <summary>
 
-# 🥗 Nutriplex
+## 🥗 Nutriplex
 
 </summary>
 
@@ -271,29 +253,29 @@ https://github.com/ashu0914/jaya-ai
 
 ### Overview
 
-Nutriplex is a premium portfolio website created for a nutrition professional with a clean, trustworthy and modern design language.
+Nutriplex is a premium portfolio website created for a professional nutrition brand with modern UI and responsive design.
 
-### Highlights
+### Features
 
-- Responsive Design
 - Premium UI
-- Fast Loading
-- SEO Friendly
-- Brand Focused
-- Professional Layout
+- Responsive Layout
+- Fast Performance
+- Clean Design
+- Portfolio Architecture
 
-### Tech Stack
+### Technologies
 
 ```text
 HTML
 CSS
-JavaScript
 Figma
 ```
 
 Repository
 
+```text
 https://github.com/ashu0914/nutriplex
+```
 
 </details>
 
@@ -303,7 +285,7 @@ https://github.com/ashu0914/nutriplex
 
 <summary>
 
-# 💻 DEO Assistant
+## 💻 DEO Assistant
 
 </summary>
 
@@ -311,25 +293,25 @@ https://github.com/ashu0914/nutriplex
 
 ### Overview
 
-DEO is the foundation of my AI assistant journey and later evolved into Jaya AI.
+DEO is my first AI desktop assistant project that later evolved into **Jaya AI**.
 
-Current capabilities include:
+### Current Features
 
-- Voice Commands
 - Chrome Automation
 - Calculator
 - Notepad
 - Google Search
 - YouTube Search
+- Voice Commands
 
-Future Roadmap
+### Future Plans
 
-- Memory
 - Emotion Engine
+- Memory
 - Telegram
-- LLM
-- Voice Personalities
+- AI Chat
 - Smart Permissions
+- Custom Voice
 
 </details>
 
@@ -341,23 +323,16 @@ Future Roadmap
 
 **2024 - Present**
 
-Working on self-driven software projects focused on:
+Working on self-driven software projects focused on Artificial Intelligence, Automation, Python Development and Product Engineering.
 
-- Artificial Intelligence
-- Automation
-- Product Engineering
+### Responsibilities
+
+- AI Project Development
+- Automation Systems
+- GitHub Management
 - Frontend Development
-- Python Applications
-- Portfolio Websites
-
-Responsibilities
-
-- Building scalable software
-- Designing modern UI
-- Developing AI projects
-- GitHub version control
-- Product planning
-- Software architecture
+- Product Design
+- Software Architecture
 
 ---
 
@@ -366,12 +341,12 @@ Responsibilities
 <div align="center">
 
 | Certificate | Status |
-|-------------|:------:|
-| Microsoft AI Fundamentals | ✅ |
-| Coursera Certificate 1 | ✅ |
-| Coursera Certificate 2 | ✅ |
-| Coursera Certificate 3 | ✅ |
-| IIT Patna AI Program | 🚧 Learning |
+|:---|:---:|
+| Microsoft AI Learning | ✅ |
+| Coursera Certificate 01 | ✅ |
+| Coursera Certificate 02 | ✅ |
+| Coursera Certificate 03 | ✅ |
+| IIT Patna AI Program | 🚧 In Progress |
 
 </div>
 
@@ -383,15 +358,15 @@ Responsibilities
 
 <a href="https://leetcode.com/u/ashujha0914/">
 
-<img src="https://img.shields.io/badge/LeetCode-ashujha0914-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-ashujha0914-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/ashu0914">
 
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-ashu0914-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -399,161 +374,75 @@ Responsibilities
 
 ---
 
-# 🎯 Current Goals
+# 📚 Currently Learning
 
 ```yaml
-Learning:
+Programming:
+  - Advanced Python
+  - Data Structures
+  - Algorithms
 
-  Python Advanced
+Artificial Intelligence:
+  - Machine Learning
+  - Deep Learning
+  - LLM Integration
 
-  Machine Learning
-
-  Data Structures
-
-  Deep Learning
-
-  Software Engineering
-
-Building:
-
-  Jaya AI
-
-  Premium Portfolio
-
-  AI Automation
-
-  Open Source
-
-Career Goal:
-
-  Software Engineer
-
-  AI Engineer
-
-  Product Builder
+Development:
+  - Product Engineering
+  - Software Architecture
+  - Frontend Development
 ```
 
 ---
-# 📊 GitHub Analytics
+
+# 🎯 Career Objective
+
+> I aspire to become a Software Engineer specializing in AI-powered applications, automation systems and scalable software products while continuously learning and contributing to impactful technology.
+
+---
+# 🌌 Developer Journey
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashu0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<table>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu0914&theme=tokyonight&hide_border=true"/>
+<tr>
+<td align="center" width="33%">
 
-<br><br>
+## 🧠 Learn
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu0914&layout=compact&theme=tokyonight&hide_border=true"/>
+Exploring AI, Machine Learning, Python and modern software development concepts.
+
+</td>
+
+<td align="center" width="33%">
+
+## 🛠 Build
+
+Creating practical projects that combine automation, intelligence and design.
+
+</td>
+
+<td align="center" width="33%">
+
+## 🚀 Grow
+
+Improving engineering skills through consistent learning and experimentation.
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashu0914&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/ashu0914/ashu0914/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 👾 Pixel Avatar
-
-<div align="center">
-
-<img src="./assets/pixel-avatar.gif" width="220"/>
-
-<br><br>
-
-> "Turning ideas into intelligent software."
-
-</div>
-
----
-
-# 🌍 Connect With Me
-
-<div align="center">
-
-<a href="mailto:ashujha0914@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ashu0914">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ashirwad-jha-65152b403/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💡 Developer Philosophy
+# 🧩 My Development Philosophy
 
 ```text
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Improve();
-
-    Share();
-
-}
-```
-
----
-
-# ⚡ Current Focus
-
-```yaml
-learning:
-  - Python Advanced
-  - AI Engineering
-  - Machine Learning
-  - Data Structures
-  - Backend Development
-
-building:
-  - Jaya AI
-  - Premium Portfolio
-  - Automation Systems
-  - Open Source Projects
-
-goal:
-  Become a Software Engineer building AI-powered products.
-```
-
----
-
-<div align="center">
-
-## 🚀 Thanks for Visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
-
-<img src="https://komarev.com/ghpvc/?username=ashu0914&style=for-the-badge&color=7C3AED"/>
-
-<br><br>
-
-⭐ If you like my work, consider following my journey on GitHub.
-
-</div>
+Clean Code        →  Easy to understand
+Continuous Learn  →  Better every day
+Build Projects    →  Real experience
+Solve Problems    →  Create impact
