@@ -54,7 +54,7 @@
 
 ## 👾 Pixel Avatar
 
-<img src="./assets/pixel-avatar.gif" width="220" alt="Pixel Avatar"/>
+<img src="./assets/isko_pixcel_animation_avatar.gif" width="220" alt="Pixel Avatar"/>
 
 <br>
 
