@@ -58,7 +58,7 @@
 
 <br>
 
-⚠️ *Add **pixel-avatar.gif** inside the **assets** folder.*
+
 
 </td>
 
