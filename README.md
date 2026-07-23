@@ -54,11 +54,11 @@
 
 ## 👾 Pixel Avatar
 
-<img src="./assets/pixel-avatar.gif" width="220" alt="Pixel Avatar"/>
+<img src="./assets/Gemini_Generated_Image_g29zcjg29zcjg29z.png" width="220" alt="Pixel Avatar"/>
 
 <br>
 
-⚠️ *Add **pixel-avatar.gif** inside the **assets** folder.*
+
 
 </td>
 
