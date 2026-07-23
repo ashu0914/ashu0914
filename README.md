@@ -110,7 +110,7 @@
 
 
 
-<img src="./assets/Gemini_Generated_Image_g29zcjg29zcjg29z.png" width="220" alt="Pixel Avatar"/>
+<img src="./assets/isko_pixcel_animation_avatar.mp4" width="220" alt="Pixel Avatar"/>
 
 
 
@@ -118,7 +118,7 @@
 
 
 
-
+⚠️ *Add **pixel-avatar.gif** inside the **assets** folder.*
 
 
 
@@ -892,95 +892,4 @@ Continuous Learn  →  Better every day
 
 Build Projects    →  Real experience
 
-Solve Problems    →  Create impact work flow snake.yml :- name: Generate Snake
-
-
-
-on:
-
-  schedule:
-
-    - cron: "0 */12 * * *"
-
-
-
-  workflow_dispatch:
-
-
-
-jobs:
-
-  build:
-
-
-
-    runs-on: ubuntu-latest
-
-
-
-    permissions:
-
-      contents: write
-
-
-
-    steps:
-
-
-
-      - uses: actions/checkout@v4
-
-
-
-      - name: Generate Snake Animation
-
-
-
-        uses: Platane/snk@v3
-
-
-
-        with:
-
-          github_user_name: ashu0914
-
-
-
-          outputs: |
-
-
-
-            dist/github-contribution-grid-snake.svg?palette=github-light
-
-
-
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-
-
-      - name: Deploy
-
-
-
-        uses: crazy-max/ghaction-github-pages@v4
-
-
-
-        with:
-
-
-
-          target_branch: output
-
-
-
-          build_dir: dist
-
-
-
-        env:
-
-
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} fir bhi snake animation kyu nahi aarahi 
-
+Solve Problems    →  Create impact
