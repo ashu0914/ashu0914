@@ -446,7 +446,9 @@ Clean Code        →  Easy to understand
 Continuous Learn  →  Better every day
 Build Projects    →  Real experience
 Solve Problems    →  Create impact
+```
 
+---
 
 # 🐍 Contribution Snake
 
@@ -468,4 +470,3 @@ Solve Problems    →  Create impact
 </picture>
 
 </div>
-
