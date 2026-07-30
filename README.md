@@ -147,7 +147,7 @@ Open To:
 </div>
 
 ---
-<!-- 📊 GitHub Statistics -->
+# 📊 GitHub Statistics 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashu0914&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
@@ -162,7 +162,7 @@ Open To:
 
 ---
 
-<!-- 🏆 GitHub Trophies -->
+# 🏆 GitHub Trophies
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ashu0914&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
