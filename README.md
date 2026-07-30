@@ -147,31 +147,27 @@ Open To:
 </div>
 
 ---
-
-# 📊 GitHub Statistics
-
+<!-- 📊 GitHub Statistics -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashu0914&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashu0914&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=ashu0914&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu0914&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu0914&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu0914&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
-
+<!-- 🏆 GitHub Trophies -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashu0914&theme=tokyonight&margin-w=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashu0914&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
 
 </div>
-
 ---
 # 🤖 AI / ML Expertise
 
