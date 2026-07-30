@@ -148,15 +148,16 @@ Open To:
 
 ---
 # 📊 GitHub Statistics 
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashu0914&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashu0914&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu0914&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu0914&theme=tokyonight&hide_border=true&cache_bust=1" alt="GitHub Streak"/>
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu0914&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu0914&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" alt="Top Languages"/>
 
 </div>
 
@@ -165,7 +166,7 @@ Open To:
 # 🏆 GitHub Trophies
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashu0914&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashu0914&theme=tokyonight&margin-w=15&no-frame=true&cache_bust=1" alt="GitHub Trophies"/>
 
 </div>
 ---
