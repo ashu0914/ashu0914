@@ -346,7 +346,7 @@ Working on self-driven software projects focused on Artificial Intelligence, Aut
 | Coursera Certificate 01 | ✅ |
 | Coursera Certificate 02 | ✅ |
 | Coursera Certificate 03 | ✅ |
-| IIT Patna AI Program | 🚧 In Progress |
+
 
 </div>
 
