@@ -146,7 +146,10 @@ Open To:
 
 </div>
 
----
+<div align="center">
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4"/>
+</div>
+
 # 📊 GitHub Statistics 
 
 
@@ -188,7 +191,9 @@ Open To:
 
 </div>
 
----
+<div align="center">
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4"/>
+</div>
 
 # 🚀 Featured Projects
 
@@ -346,7 +351,7 @@ Working on self-driven software projects focused on Artificial Intelligence, Aut
 | Coursera Certificate 01 | ✅ |
 | Coursera Certificate 02 | ✅ |
 | Coursera Certificate 03 | ✅ |
-
+| IIT Patna AI Program | 🚧 In Progress |
 
 </div>
 
@@ -399,7 +404,10 @@ Development:
 
 > I aspire to become a Software Engineer specializing in AI-powered applications, automation systems and scalable software products while continuously learning and contributing to impactful technology.
 
----
+<div align="center">
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4"/>
+</div>
+
 # 🌌 Developer Journey
 
 <div align="center">
@@ -468,5 +476,13 @@ Solve Problems    →  Create impact
     src="https://raw.githubusercontent.com/ashu0914/ashu0914/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0c29,50:302b63,100:24243e&section=footer&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=26&fontAlignY=80&animation=fadeIn"/>
 
 </div>
