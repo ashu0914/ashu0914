@@ -174,7 +174,11 @@ Open To:
 
 </div>
 
+<div align="center">
+
 ![](./profile-3d-contrib/profile-rainbow.svg)
+
+</div>
 
 
 ---
