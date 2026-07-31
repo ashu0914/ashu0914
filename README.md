@@ -155,13 +155,22 @@ Open To:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashu0914&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ashu0914&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=7C3AED" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashu0914&show_icons=true&theme=default&hide_border=true&border_radius=10&title_color=7C3AED" alt="GitHub Stats"/>
+</picture>
 
-<img height="170" src="https://streak-stats.demolab.com/?user=ashu0914&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ashu0914&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=ashu0914&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+</picture>
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu0914&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu0914&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=7C3AED" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu0914&layout=compact&theme=default&hide_border=true&border_radius=10&title_color=7C3AED" alt="Top Languages"/>
+</picture>
 
 </div>
 
@@ -207,7 +216,10 @@ Open To:
 
 <br>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashu0914&repo=jaya-ai&theme=tokyonight&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ashu0914&repo=jaya-ai&theme=tokyonight&hide_border=true&border_radius=10&title_color=7C3AED" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashu0914&repo=jaya-ai&theme=default&hide_border=true&border_radius=10&title_color=7C3AED"/>
+</picture>
 
 ### Overview
 
@@ -254,7 +266,10 @@ https://github.com/ashu0914/jaya-ai
 
 <br>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashu0914&repo=nutriplex&theme=tokyonight&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ashu0914&repo=nutriplex&theme=tokyonight&hide_border=true&border_radius=10&title_color=7C3AED" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashu0914&repo=nutriplex&theme=default&hide_border=true&border_radius=10&title_color=7C3AED"/>
+</picture>
 
 ### Overview
 
