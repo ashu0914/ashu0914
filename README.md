@@ -174,6 +174,8 @@ Open To:
 
 </div>
 
+![](./profile-3d-contrib/profile-rainbow.svg)
+
 
 ---
 
@@ -502,5 +504,3 @@ Solve Problems    →  Create impact
 
 </div>
 
-
-![](./profile-3d-contrib/profile-rainbow.svg)
